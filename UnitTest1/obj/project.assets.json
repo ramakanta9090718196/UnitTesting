@@ -5942,11 +5942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\Clone\\UnitTesting\\UnitTest1\\UnitTest1.csproj",
+      "projectUniqueName": "D:\\GIT\\GITBranch\\UnitTesting\\UnitTest1\\UnitTest1.csproj",
       "projectName": "UnitTest1",
-      "projectPath": "D:\\GIT\\Clone\\UnitTesting\\UnitTest1\\UnitTest1.csproj",
+      "projectPath": "D:\\GIT\\GITBranch\\UnitTesting\\UnitTest1\\UnitTest1.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\Clone\\UnitTesting\\UnitTest1\\obj\\",
+      "outputPath": "D:\\GIT\\GITBranch\\UnitTesting\\UnitTest1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
