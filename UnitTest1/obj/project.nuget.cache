@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1il4vfuapqJZT8tS2BCRK7epM/hhV01ZyYci9dNp7Tw/c3wExOzDbqg3lET0MDcCK/X1k7uOFulG7QGS5Dcj9Q==",
+  "dgSpecHash": "57PBTEW+XVWEghn008nWwS4XTEXyzaMXGJn9X9NEyoZYwJpY13b39U0Wm4GTHaHsIf1hakrFckUMB+0WnY8z6w==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\GITStuff\\UnitTest1\\UnitTest1\\UnitTest1.csproj",
+  "projectFilePath": "D:\\GIT\\Clone\\UnitTesting\\UnitTest1\\UnitTest1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
